@@ -1,0 +1,7 @@
+tensorflow-cpu
+numpy==1.19.2
+pandas
+matplotlib
+flask==2.0.1
+gunicorn
+python-decouple
