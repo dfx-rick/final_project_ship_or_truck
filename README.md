@@ -39,6 +39,9 @@ label=label.reshape(-1,)#reshaping the labels to single dimension
 * Used Flask to create the web application
 * Implemented a basic CNN, trained for 10 epochs
 * Used Heroku to deploy the webapp
-* Used gunicorn which takes care of everything which happens in etween the web server and the web app
+* Used gunicorn which takes care of everything which happens in between the web server and the web app
+
+The link to the web app is  https://shiportruckfinalproject.herokuapp.com/
+
 
 Thanks for going through the ReadME :)
